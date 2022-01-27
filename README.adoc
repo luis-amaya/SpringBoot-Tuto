@@ -1,3 +1,9 @@
+== What's SpringBoot
+
+Spring Boot is one of the main tools of backend web development using Java. SpringBoot is not Spring and this proyect aims to an easier way to create Java applications without much configurations complications and all the difficulties that it could carry. With SpringBoot we could make and deploy countless REST APIs so we could interact with different services and depploy it so any other client may connect using the HTTP protocol.
+
+== 
+
 :spring_boot_version: 2.5.0
 :spring-boot: https://github.com/spring-projects/spring-boot
 :toc:
